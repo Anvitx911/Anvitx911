@@ -1,30 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hey,%20I'm%20Anvit%20👋&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Consulting%20•%20Business%20Analytics%20•%20Strategy%20%26%20Ops&descAlignY=55&descSize=20" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=330&color=gradient&customColorList=6,11,20&text=ANVIT%20SHARMA&fontColor=ffffff&fontSize=62&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20Engineer%20•%20Business%20Analytics%20•%20Strategy%20Consulting&descAlignY=63&descSize=19"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2600&pause=900&color=8A2BE2&center=true&vCenter=true&width=700&lines=Turning+Data+into+Decisions+%F0%9F%93%88;Bridging+Business+%26+Technology+%F0%9F%A4%9D;5x+Global+Job+Simulation+Alum+%F0%9F%8E%96%EF%B8%8F;Building+Stakeholder+Trust+at+Scale+%F0%9F%9A%80" alt="Typing SVG"/></a>
+<h1>👋 Welcome to my GitHub!</h1>
 
-<br/>
+<h3>
+Building technology that creates real-world impact.
+</h3>
+<br><br>
+<a href="mailto:official.anvitsharma@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/📍_Chitkara_University-CSE_Undergrad-8A2BE2?style=for-the-badge&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/🎯_Open_to-Consulting_|_Analytics_|_Ops-00C9A7?style=for-the-badge&labelColor=1a1a2e"/>
+<a href="https://linkedin.com/in/anvitx911">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<br/><br/>
-
-<a href="mailto:official.anvitsharma@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/anvitx911"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Anvitx911"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="tel:+917009491935"><img src="https://img.shields.io/badge/+91_7009491935-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Anvitx911&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS"/>
+<a href="https://github.com/Anvitx911">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
-
-<br/>
 
 ## 🚀 About Me
 
@@ -233,24 +229,6 @@ Automated extraction of **1,000+ web records** with validation and exception-han
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Anvitx911&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anvitx911&theme=radical&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anvitx911&layout=compact&theme=radical&hide_border=true" height="165"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anvitx911&theme=radical&no-frame=true&row=1&column=6"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%25" width="100%"/>
-
-<div align="center">
 
 ## 📬 Let's Connect
 
@@ -259,7 +237,7 @@ I'm always open to conversations about consulting, analytics, business operation
 <a href="mailto:official.anvitsharma@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/anvitx911"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-*"Analytical rigor meets people-first execution."*
+*"In God we trust , all other must bring data" ~ William Edwards Deming*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
